@@ -15,7 +15,7 @@ A responsive single-page website dedicated to Pakistan's cricket captain Babar A
 This website is automatically deployed to GitHub Pages using CI/CD.
 
 ## Live Demo
-Visit: [https://zainbinimran.github.io/babar-azam-blog](https://zainbinimran.github.io/babar-azam-blog)
+Visit: [https://zainbinimran.github.io/babar-azam-blog](https://https://zainbinimran.github.io/Blog/)
 
 ## Technologies Used
 - HTML5
